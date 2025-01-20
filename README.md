@@ -1,2 +1,2 @@
 # SimpleVAE
-Simple VAE Pytorch
+Simple Variational Autoencoder Pytorch
